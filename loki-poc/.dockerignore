@@ -1,0 +1,20 @@
+# Ignore the node_modules directory
+node_modules
+
+# Ignore log files
+*.log
+
+# Ignore Dockerfile and other configuration files
+Dockerfile
+*.yaml
+
+# Ignore local environment files
+.env
+
+# Ignore build artifacts
+dist
+build
+
+# Ignore any other temporary files
+*.tmp
+*.bak
